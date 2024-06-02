@@ -1,0 +1,103 @@
+country,region,date,product,unit_price,profit
+Tunisia,Ariana,2023/08/01,Rice,12,3000
+USA,California,2022/07/15,Wheat,15,4500
+Brazil,Sao Paulo,2023/09/05,Coffee,10,2500
+China,Beijing,2023/06/21,Tea,8,2000
+India,Mumbai,2023/04/30,Sugar,5,1500
+Germany,Bavaria,2021/02/11,Milk,6,1700
+France,Paris,2023/01/22,Bread,3,900
+Canada,Ontario,2023/03/13,Corn,4,1100
+Australia,Sydney,2023/05/10,Barley,7,2100
+Japan,Tokyo,2021/12/25,Rice,11,2800
+Russia,Moscow,2022/11/14,Wheat,13,3300
+South Africa,Cape Town,2023/10/09,Tea,9,1900
+Italy,Rome,2023/08/30,Coffee,12,2400
+Spain,Madrid,2023/07/21,Sugar,6,1600
+Mexico,Mexico City,2023/06/11,Corn,5,1300
+Argentina,Buenos Aires,2023/05/01,Barley,8,2200
+UK,London,2023/04/17,Milk,7,1800
+Egypt,Cairo,2023/03/29,Bread,4,1000
+Turkey,Istanbul,2022/02/15,Rice,10,2600
+Indonesia,Jakarta,2022/01/19,Wheat,14,4000
+South Korea,Seoul,2023/03/05,Tea,7,1700
+Vietnam,Hanoi,2022/04/22,Coffee,11,2300
+Thailand,Bangkok,2023/05/18,Sugar,5,1500
+Malaysia,Kuala Lumpur,2023/06/25,Corn,6,1400
+Philippines,Manila,2023/07/29,Barley,9,2000
+Pakistan,Karachi,2021/08/20,Milk,8,1900
+Bangladesh,Dhaka,2022/09/10,Bread,3,800
+Nigeria,Lagos,2023/10/13,Rice,13,2900
+Kenya,Nairobi,2022/11/22,Wheat,15,3500
+Ghana,Accra,2023/12/04,Tea,8,1800
+Morocco,Rabat,2023/01/16,Coffee,10,2200
+Algeria,Algiers,2023/02/10,Sugar,6,1600
+Ethiopia,Addis Ababa,2023/03/14,Corn,7,1200
+Sudan,Khartoum,2023/04/09,Barley,5,1300
+Tanzania,Dar es Salaam,2023/05/26,Milk,7,1700
+Uganda,Kampala,2022/06/30,Bread,4,900
+Zimbabwe,Harare,2023/07/12,Rice,12,2800
+Zambia,Lusaka,2022/08/05,Wheat,13,3200
+Senegal,Dakar,2021/09/19,Tea,9,1900
+Ivory Coast,Abidjan,2022/10/23,Coffee,11,2500
+Cameroon,Yaounde,2023/11/11,Sugar,5,1400
+Angola,Luanda,2023/12/08,Corn,6,1500
+Mozambique,Maputo,2021/01/29,Barley,8,2200
+Gabon,Libreville,2023/02/21,Milk,7,1600
+Namibia,Windhoek,2023/03/28,Bread,3,1000
+Botswana,Gaborone,2021/04/15,Rice,10,2600
+Malawi,Lilongwe,2022/05/07,Wheat,14,3800
+Rwanda,Kigali,2023/06/03,Tea,7,1700
+Burundi,Bujumbura,2023/07/24,Coffee,12,2400
+Seychelles,Victoria,2023/08/22,Sugar,6,1500
+Mauritius,Port Louis,2022/09/11,Corn,5,1300
+Madagascar,Antananarivo,2023/10/05,Barley,9,2100
+Somalia,Mogadishu,2023/11/01,Milk,8,1800
+Djibouti,Djibouti,2021/12/21,Bread,3,800
+Libya,Tripoli,2023/01/14,Rice,13,2900
+Tunisia,Sfax,2023/02/17,Wheat,15,4500
+USA,Texas,2023/03/09,Tea,8,2000
+Brazil,Rio de Janeiro,2023/04/12,Coffee,10,2500
+China,Shanghai,2021/05/20,Sugar,5,1500
+India,Delhi,2023/06/18,Corn,4,1100
+Germany,Berlin,2023/07/02,Barley,7,2100
+France,Lyon,2023/08/27,Milk,6,1700
+Canada,Quebec,2023/09/16,Bread,3,900
+Australia,Melbourne,2023/10/14,Rice,11,2800
+Japan,Osaka,2023/11/07,Wheat,13,3300
+Russia,St. Petersburg,2023/12/19,Tea,9,1900
+South Africa,Johannesburg,2023/01/08,Coffee,12,2400
+Italy,Florence,2023/02/04,Sugar,6,1600
+Spain,Barcelona,2021/03/25,Corn,5,1300
+Mexico,Guadalajara,2023/04/06,Barley,8,2200
+Argentina,Cordoba,2023/05/16,Milk,7,1800
+UK,Manchester,2023/06/29,Bread,4,1000
+Egypt,Alexandria,2022/07/31,Rice,10,2600
+Turkey,Ankara,2023/08/15,Wheat,14,4000
+Indonesia,Surabaya,2023/09/23,Tea,7,1700
+South Korea,Busan,2023/10/28,Coffee,11,2300
+Vietnam,Ho Chi Minh City,2023/11/15,Sugar,5,1500
+Thailand,Chiang Mai,2023/12/27,Corn,6,1400
+Malaysia,Penang,2022/01/03,Barley,9,2000
+Philippines,Cebu,2023/02/26,Milk,8,1900
+Pakistan,Lahore,2023/03/30,Bread,3,800
+Bangladesh,Chittagong,2023/04/25,Rice,13,2900
+Nigeria,Abuja,2023/05/21,Wheat,15,3500
+Kenya,Mombasa,2021/06/08,Tea,8,1800
+Ghana,Kumasi,2023/07/19,Coffee,10,2200
+Morocco,Casablanca,2023/08/02,Sugar,6,1600
+Algeria,Oran,2023/09/12,Corn,7,1200
+Ethiopia,Dire Dawa,2022/10/17,Barley,5,1300
+Sudan,Port Sudan,2023/11/20,Milk,7,1700
+Tanzania,Mwanza,2021/12/31,Bread,4,900
+Uganda,Entebbe,2023/01/05,Rice,12,2800
+Zimbabwe,Bulawayo,2022/02/23,Wheat,13,3200
+Zambia,Ndola,2021/03/21,Tea,9,1900
+Senegal,Thies,2023/04/08,Coffee,11,2500
+Ivory Coast,Yamoussoukro,2023/05/04,Sugar,5,1400
+Cameroon,Douala,2023/06/19,Corn,6,1500
+Angola,Huambo,2023/07/06,Barley,8,2200
+Mozambique,Beira,2023/08/28,Milk,7,1600
+Gabon,Port-Gentil,2021/09/08,Bread,3,1000
+Namibia,Swakopmund,2022/10/27,Rice,10,2600
+Botswana,Francistown,2023/11/03,Wheat,14,3800
+Malawi,Blantyre,2022/12/24,Tea,7,1700
