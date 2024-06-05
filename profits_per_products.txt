@@ -1,0 +1,4 @@
+Top Sold Products 
+Wheat : 		44600$ 
+Rice : 		30300$ 
+Coffee : 		26200$ 

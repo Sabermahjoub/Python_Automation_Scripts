@@ -1,0 +1,63 @@
+Total profit : 205000 $ 
+Profits per year : 
+   year  total profit per year
+0  2021                  22300
+1  2022                  46100
+2  2023                 136600
+Profits per country : 
+country
+Algeria         2800
+Angola          3700
+Argentina       4000
+Australia       4900
+Bangladesh      3700
+Botswana        6400
+Brazil          5000
+Burundi         2400
+Cameroon        2900
+Canada          2000
+China           3500
+Djibouti         800
+Egypt           3600
+Ethiopia        2500
+France          2600
+Gabon           2600
+Germany         3800
+Ghana           4000
+India           2600
+Indonesia       5700
+Italy           4000
+Ivory Coast     3900
+Japan           6100
+Kenya           5300
+Libya           2900
+Madagascar      2100
+Malawi          5500
+Malaysia        3400
+Mauritius       1300
+Mexico          3500
+Morocco         3800
+Mozambique      3800
+Namibia         3600
+Nigeria         6400
+Pakistan        2700
+Philippines     3900
+Russia          5200
+Rwanda          1700
+Senegal         4400
+Seychelles      1500
+Somalia         1800
+South Africa    4300
+South Korea     4000
+Spain           2900
+Sudan           3000
+Tanzania        2600
+Thailand        2900
+Tunisia         4500
+Turkey          6600
+UK              2800
+USA             6500
+Uganda          3700
+Vietnam         3800
+Zambia          5100
+Zimbabwe        6000
